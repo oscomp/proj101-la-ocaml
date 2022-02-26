@@ -1,4 +1,4 @@
-# projX-la-ocaml
+# proj101-la-ocaml
 
 ## 项目名称
 
